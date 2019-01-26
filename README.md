@@ -10,12 +10,10 @@ Run The Project with Localhost
  Username-ganesh
  Password-123
  Usertype-superadmin
-
+ 
 You can use this details of user or create new .
  
- Tasks which is done in this project 
-
-
+ Tasks which is done in this project
 1. login and registration of the user 
 2. giving access to user by their user type 
 3.add,delete,read and edit  student data
